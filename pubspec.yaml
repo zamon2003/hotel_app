@@ -1,0 +1,24 @@
+name: task_for_4_may
+description: A new Flutter project.
+version: 1.0.0+1
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+dependencies:
+  glassmorphism: ^3.0.0
+  curved_navigation_bar: ^1.0.3
+  animated_splash_screen: ^1.2.0
+  font_awesome_flutter: ^10.1.0
+  lottie: ^1.3.0
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter:
+  uses-material-design: true
+  # assets:
+  assets:
+    - assets/images/
+    - assets/
